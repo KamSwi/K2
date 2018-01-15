@@ -1,0 +1,13 @@
+D:\Świder\Koło\Koło\bin\Debug\Koło.exe.config
+D:\Świder\Koło\Koło\obj\Debug\Koło.csprojResolveAssemblyReference.cache
+D:\Świder\Koło\Koło\obj\Debug\MainWindow.baml
+D:\Świder\Koło\Koło\obj\Debug\MainWindow.g.cs
+D:\Świder\Koło\Koło\obj\Debug\App.g.cs
+D:\Świder\Koło\Koło\obj\Debug\Koło_MarkupCompile.cache
+D:\Świder\Koło\Koło\obj\Debug\Koło.g.resources
+D:\Świder\Koło\Koło\obj\Debug\Koło.Properties.Resources.resources
+D:\Świder\Koło\Koło\obj\Debug\Koło.csproj.GenerateResource.Cache
+D:\Świder\Koło\Koło\bin\Debug\Koło.exe
+D:\Świder\Koło\Koło\bin\Debug\Koło.pdb
+D:\Świder\Koło\Koło\obj\Debug\Koło.exe
+D:\Świder\Koło\Koło\obj\Debug\Koło.pdb
